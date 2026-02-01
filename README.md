@@ -1,4 +1,4 @@
-# Hello   
+# Hello! 👋   
 ⚙ This Custom Password Generator (No Random Libraries)  
 _____________________________
 ##  ⚠ Security Warning    
