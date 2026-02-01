@@ -1,2 +1,9 @@
-# random_password_nolibraries
-A Python password generator that uses a **custom-built randomness algorithm** instead of built-in libraries like `random` or `secrets`.
+# Hello   
+⚙ This Custom Password Generator (No Random Libraries)  
+_____________________________
+##  ⚠ Security Warning    
+This project is **for educational purposes only**.    
+The generated passwords are **NOT cryptographically secure**.      
+For real security, use Python’s `secrets` library instead.    
+This project focuses on **learning algorithm logic**, not real-world security.    
+ _____________
