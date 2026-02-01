@@ -24,4 +24,5 @@ for i in range(password_length):
     index = get_random(len(all_chars))
     password += all_chars[index]
 
-print("Ваш пароль:", password)
+print("Your password", password)
+
