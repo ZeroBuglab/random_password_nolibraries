@@ -51,9 +51,44 @@ _________________
 * String operations  
 ______________
 ## 🚀 Installation & Run
-git clone https://github.com/yourusername/custom-password-generator-no-random   
+git clone https://github.com/ZeroBuglab/random_password_nolibraries/blob/main/code
 cd custom-password-generator-no-random   
-python main.py   
+python main.py    
+Or run directly in your Python environment   
+_________________
+## 🎯 Purpose of the Project  
+This project was created to: 
+* Understand how randomness works  
+* Practice algorithm design  
+* Build a generator without built-in random libraries  
+* Explore hash-based logic  
+* Improve problem-solving skills
+___________________
+#### 📌 Status
+🧪 Experimental  
+📚 Educational project  
+🔧 May be improved in the future  
+____________
+#### 🧠 Author Note  
+This project is part of my learning journey in Python.   
+The goal was to build a password generator from scratch and understand the logic behind random behavior rather than relying on existing libraries.   
+___________________
+### 💡 Possible Improvements
+* Stronger randomness logic
+* Better unpredictability
+* GUI version
+* Password strength indicator
+
+
+
+
+
+
+
+
+
+
+
  
 
 
